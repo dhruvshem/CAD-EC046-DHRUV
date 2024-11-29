@@ -1,8 +1,8 @@
 # CADD_JOB
 
 ## Project Details
-- **Name**: Akash T  
-- **SRN**: PES2UG23EC008  
+- **Name**: Dhruv Shembekar
+- **SRN**: PES2UG23EC046 
 - **Section**: A  
 - **Subject**: CADD  
 
