@@ -1,0 +1,10 @@
+Adding two 8 bit BCD Numbers involves the following procedures:
+
+    1.Add each digit of A and B selectively four bits of BCD for each digit position.
+    2.Add any carry-in for the digits that have carry-ins.
+    3.Determine whether the result exceeds 9 (illegal BCD digit). If it does, shift six (D) to correct  it and render it a legal BCD digit.
+    4.Carry out and advance to the next digit as necessary.
+    5.This design will:
+        *Break the 8bit inputs to two 4 bit groups for each digit.
+        *Construct a 4 bit adder for every BCD digit.
+        *Use the correction logic of BCD for the BCD invalid values.

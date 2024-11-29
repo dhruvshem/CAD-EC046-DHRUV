@@ -1,0 +1,7 @@
+Steps for 32-bit Floating-Point Multiplication:
+Step 1: Extract the Exponents: The first steps in floating point digits multiplication is to extract the exponents from both the numbers.
+Step 2: Exponents Addition: After this, the exponents will be added in order to obtain an exponent which is preliminary as regards the resultant.
+Step 3: Mantissa Multiplication: Treating the mantissas As though they are integers, multiply them as well.
+Step 4: Final Adjusting of the Result: Shift the mantissa of the resultant number and modify the exponent as necessary in order to finalize the number.
+Step 5: Final Adjustment of the Result: Adjust the mantissa to the required number of bits, which in this case would be 32.
+Step 6: Building of the Assembly: Assemble the final result from the normalized mantissa and the exponent which has been adjusted according to the requirements.
